@@ -12,4 +12,17 @@
 
 ## 参考記事など
 - Nuxt3プロジェクトの作成方法
-  - 右記URLの「1. Nuxt3とは」まで：https://reffect.co.jp/vue/nuxt3/
+  - 下記URLの「1. Nuxt3とは」まで
+  - https://reffect.co.jp/vue/nuxt3/
+- Nuxt3プロジェクトの環境構築
+  - 下記URLの「Nuxt3プロジェクトの作成とTypeScriptの設定 - ESLintの設定」まで
+  - https://tech.isid.co.jp/entry/2022/12/08/Nuxt_3_%E3%81%AE_Stable_%E7%89%88%E3%81%8C%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%95%E3%82%8C%E3%81%9F%E3%81%AE%E3%81%A7%E8%A7%A6%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8B
+- piniaのインストール
+  - https://pinia.vuejs.org/ssr/nuxt.html
+- アプリ内の「普通のToDoAppの作成」のために参考にした記事
+  -  https://qiita.com/nishikor/items/4737bd987674dab34139
+  -  https://qiita.com/nishikor/items/c5e2e0682a4a7d522846
+  -  https://qiita.com/nishikor/items/3ca4c42d14edecd5a06f
+-  アプリ内の「Piniaを使ったToDoアプリの作成」のために参考にした記事
+  -  https://zenn.dev/bosushi/scraps/bd416abe14f6a4（一部）
+  -  https://github.com/kotobuki562/nuxt-template/tree/main（一部）
