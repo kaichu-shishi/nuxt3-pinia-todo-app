@@ -1,63 +1,14 @@
-# Nuxt 3 Minimal Starter
+# Nuxt3と状態管理ライブラリPiniaを使ったToDoアプリ
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## デプロイアプリURL
+- 下記のURLからアプリにアクセスできます
+- あ
 
-## Setup
+## クイックスタート
+- このプロジェクトは「yarn」をパッケージマネージャーとして使用します
+- まずこのプロジェクトをコンピューターにダウンロードします（zipファイルの手動ダウンロード、または「git clone https://github.com/kaichu-shishi/nuxt3-pinia-todo-app」によって）
+- 「yarn install」コマンドを実行して依存関係をインストールします
+- 「yarn run dev」コマンドを実行して開発サーバーを起動し、ブラウザで「http://localhost:3000」を開きます
 
-Make sure to install the dependencies:
-
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## 参考記事など
+- 
