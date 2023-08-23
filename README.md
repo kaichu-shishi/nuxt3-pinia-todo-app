@@ -24,5 +24,5 @@
   -  https://qiita.com/nishikor/items/c5e2e0682a4a7d522846
   -  https://qiita.com/nishikor/items/3ca4c42d14edecd5a06f
 -  アプリ内の「Piniaを使ったToDoアプリの作成」のために参考にした記事
-  -  https://zenn.dev/bosushi/scraps/bd416abe14f6a4（一部）
-  -  https://github.com/kotobuki562/nuxt-template/tree/main（一部）
+  -  https://zenn.dev/bosushi/scraps/bd416abe14f6a4
+  -  https://github.com/kotobuki562/nuxt-template/tree/main
