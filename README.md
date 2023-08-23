@@ -12,4 +12,4 @@
 
 ## 参考記事など
 - Nuxt3プロジェクトの作成方法
-  - https://reffect.co.jp/vue/nuxt3/の「1. Nuxt3とは」
+  - 右記URLの「1. Nuxt3とは」まで：https://reffect.co.jp/vue/nuxt3/
