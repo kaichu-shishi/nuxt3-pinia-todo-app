@@ -10,7 +10,10 @@ export interface Todo {
     createdAt: Date
 }
 
+// 第一引数にはStoreの一意なID、第二引数にStoreの定義を書く
+// 新しいToDoを作成するための一時的な箱
 export const useNewTodo = defineStore('newTodo', {
+    // データの読み書き
     state: (): Todo => ({
       id: 0,
       title: '',
@@ -18,6 +21,7 @@ export const useNewTodo = defineStore('newTodo', {
       content: '',
       createdAt: new Date(),
     }),
+    // 各種メソッド
     actions: {
         reset() {
           this.id = 0
@@ -29,12 +33,14 @@ export const useNewTodo = defineStore('newTodo', {
     },
 })
 
+// 作成したToDoを保存していく箱
 export const useTodo = defineStore('todo', {
     state: () => ({
       todos: [] as Todo[],
       filter: 'all',
     	id: 0,
     }),
+    // 加工したデータの読み取り
 		getters: {
 			getTodoById() {
 				return (id: number) => {
