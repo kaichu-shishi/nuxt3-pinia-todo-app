@@ -10,6 +10,14 @@
 - `yarn install`コマンドを実行して依存関係をインストールします
 - `yarn run dev`コマンドを実行して開発サーバーを起動し、ブラウザで`http://localhost:3000`を開きます
 
+## 補足
+- エディターはVSCodeを使用いたしました（VSCodeの拡張機能により快適な開発ができるため）
+- 使用した拡張機能は以下の三つです
+- Volar
+  - Vue Language Features（https://marketplace.visualstudio.com/items?itemName=Vue.volar）
+  - TypeScript Vue Plugin（https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin）
+- ESLint（https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint）
+
 ## 参考記事など
 - Nuxt3プロジェクトの作成方法
   - 下記URLの「1. Nuxt3とは」まで
